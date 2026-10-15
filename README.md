@@ -19,7 +19,7 @@ My projects and hands-on development work are available here:
 2. **Food Delivery and Dine-Out Platform** — Web application with customer, restaurant, delivery-agent, and admin portals.  
    [View Repository](https://github.com/Pradhyut21/FOOD-DELIVERY-.git)
 
-3. 3. **Multimodal System for Early Detection of Heart Block and Pulmonary Hypertension** — A health-screening system that analyzes ECG signals and vital parameters, including heart rate, SpO₂, and temperature, to identify potential abnormalities and categorize risk.
+3. **Multimodal System for Early Detection of Heart Block and Pulmonary Hypertension** — A health-screening system that analyzes ECG signals and vital parameters, including heart rate, SpO₂, and temperature, to identify potential abnormalities and categorize risk.
 
    [View Repository](https://github.com/Rakshitha-118/majorproject-heartblock.git)
 
